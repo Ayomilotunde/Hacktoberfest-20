@@ -16,3 +16,6 @@ Github : [TimSolokha](https://github.com/TimSolokha)
 
 ## Masyoudi Adi Yanta
 Github : [masyoudi](https://github.com/masyoudi)
+
+## Adeoye Ayomide Olatunde
+Github : [Ayomilotunde](https://github.com/Ayomilotunde)
